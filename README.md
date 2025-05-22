@@ -32,4 +32,6 @@ Design File: https://www.figma.com/design/FmxmjQa2yVnOq7HaVhnn4c/Diabetes-Meal-P
 
 Interactive Prototype: https://www.figma.com/proto/FmxmjQa2yVnOq7HaVhnn4c/Diabetes-Meal-Planner-App?node-id=121-138&t=FO2QJ8NVTizhW6YL-1
 
+Assets & Docs: https://drive.google.com/drive/folders/16GiUYrBBlm3Q7G8E5j3Q1voXjH8Tcudt?usp=drive_link
+
 Project Presentation: https://drive.google.com/file/d/1DrNmEf8WttXPVp4wGxMXFktI3ZerkEWo/view?usp=drive_link
